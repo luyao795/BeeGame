@@ -2,3 +2,6 @@ BeeGame/Intermediate/
 BeeGame/Saved/
 BeeGame/Binaries/
 BeeGame/*.db
+BeeGame/Content/MobileStarterContent/
+BeeGame/Content/WaterPlane/
+BeeGame/Content/TopDownBP/
